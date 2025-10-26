@@ -154,6 +154,10 @@ Frontend communicates with load balancer at: `http://localhost:8000`
 
 ## 🌐 Deployment
 
+### ✅ Live Demo
+
+🔗 [https://college-result-portal.netlify.app/](https://college-result-portal.netlify.app/)
+
 This repository currently supports **frontend-only** hosting via Netlify.
 Backend can be self-hosted or later deployed on VPS/cloud.
 
