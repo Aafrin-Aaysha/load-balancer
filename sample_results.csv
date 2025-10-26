@@ -1,0 +1,252 @@
+name,roll_number,course,semester,year,subject_name,max_marks,obtained_marks,sgpa,result_status
+Aravind Ramesh,MCA101,MCA,2,2024,Data Structures,100,82,7.98,Pass
+Aravind Ramesh,MCA101,MCA,2,2024,Algorithms,100,79,7.98,Pass
+Aravind Ramesh,MCA101,MCA,2,2024,Database Systems,100,81,7.98,Pass
+Aravind Ramesh,MCA101,MCA,2,2024,Operating Systems,100,75,7.98,Pass
+Aravind Ramesh,MCA101,MCA,2,2024,Computer Architecture,100,83,7.98,Pass
+Karthik Narayanan,MCA102,MCA,3,2024,Data Structures,100,71,7.22,Pass
+Karthik Narayanan,MCA102,MCA,3,2024,Algorithms,100,69,7.22,Pass
+Karthik Narayanan,MCA102,MCA,3,2024,Database Systems,100,72,7.22,Pass
+Karthik Narayanan,MCA102,MCA,3,2024,Operating Systems,100,75,7.22,Pass
+Karthik Narayanan,MCA102,MCA,3,2024,Computer Architecture,100,74,7.22,Pass
+Shruthi Natarajan,MCA103,MCA,1,2024,Data Structures,100,87,8.42,Pass
+Shruthi Natarajan,MCA103,MCA,1,2024,Algorithms,100,84,8.42,Pass
+Shruthi Natarajan,MCA103,MCA,1,2024,Database Systems,100,81,8.42,Pass
+Shruthi Natarajan,MCA103,MCA,1,2024,Operating Systems,100,88,8.42,Pass
+Shruthi Natarajan,MCA103,MCA,1,2024,Computer Architecture,100,83,8.42,Pass
+Vishnu Prasad,MCA104,MCA,4,2024,Data Structures,100,77,7.34,Pass
+Vishnu Prasad,MCA104,MCA,4,2024,Algorithms,100,71,7.34,Pass
+Vishnu Prasad,MCA104,MCA,4,2024,Database Systems,100,73,7.34,Pass
+Vishnu Prasad,MCA104,MCA,4,2024,Operating Systems,100,70,7.34,Pass
+Vishnu Prasad,MCA104,MCA,4,2024,Computer Architecture,100,76,7.34,Pass
+Keerthana Subramani,MCA105,MCA,2,2024,Data Structures,100,92,8.88,Pass
+Keerthana Subramani,MCA105,MCA,2,2024,Algorithms,100,89,8.88,Pass
+Keerthana Subramani,MCA105,MCA,2,2024,Database Systems,100,88,8.88,Pass
+Keerthana Subramani,MCA105,MCA,2,2024,Operating Systems,100,91,8.88,Pass
+Keerthana Subramani,MCA105,MCA,2,2024,Computer Architecture,100,90,8.88,Pass
+Ashwin Venkatesh,MCA106,MCA,3,2024,Data Structures,100,66,6.84,Pass
+Ashwin Venkatesh,MCA106,MCA,3,2024,Algorithms,100,69,6.84,Pass
+Ashwin Venkatesh,MCA106,MCA,3,2024,Database Systems,100,71,6.84,Pass
+Ashwin Venkatesh,MCA106,MCA,3,2024,Operating Systems,100,65,6.84,Pass
+Ashwin Venkatesh,MCA106,MCA,3,2024,Computer Architecture,100,68,6.84,Pass
+Lakshmi Iyer,MCA107,MCA,1,2024,Data Structures,100,81,8.28,Pass
+Lakshmi Iyer,MCA107,MCA,1,2024,Algorithms,100,84,8.28,Pass
+Lakshmi Iyer,MCA107,MCA,1,2024,Database Systems,100,80,8.28,Pass
+Lakshmi Iyer,MCA107,MCA,1,2024,Operating Systems,100,83,8.28,Pass
+Lakshmi Iyer,MCA107,MCA,1,2024,Computer Architecture,100,85,8.28,Pass
+Harish Rajagopal,MCA108,MCA,4,2024,Data Structures,100,76,7.56,Pass
+Harish Rajagopal,MCA108,MCA,4,2024,Algorithms,100,79,7.56,Pass
+Harish Rajagopal,MCA108,MCA,4,2024,Database Systems,100,74,7.56,Pass
+Harish Rajagopal,MCA108,MCA,4,2024,Operating Systems,100,77,7.56,Pass
+Harish Rajagopal,MCA108,MCA,4,2024,Computer Architecture,100,75,7.56,Pass
+Pranav Chandran,MCA109,MCA,2,2024,Data Structures,100,67,6.92,Pass
+Pranav Chandran,MCA109,MCA,2,2024,Algorithms,100,65,6.92,Pass
+Pranav Chandran,MCA109,MCA,2,2024,Database Systems,100,69,6.92,Pass
+Pranav Chandran,MCA109,MCA,2,2024,Operating Systems,100,71,6.92,Pass
+Pranav Chandran,MCA109,MCA,2,2024,Computer Architecture,100,70,6.92,Pass
+Meena Balasubramani,MCA110,MCA,3,2024,Data Structures,100,88,8.66,Pass
+Meena Balasubramani,MCA110,MCA,3,2024,Algorithms,100,84,8.66,Pass
+Meena Balasubramani,MCA110,MCA,3,2024,Database Systems,100,86,8.66,Pass
+Meena Balasubramani,MCA110,MCA,3,2024,Operating Systems,100,83,8.66,Pass
+Meena Balasubramani,MCA110,MCA,3,2024,Computer Architecture,100,85,8.66,Pass
+Anitha Kumaran,BCA111,BCA,1,2024,Programming in C,100,78,7.64,Pass
+Anitha Kumaran,BCA111,BCA,1,2024,Web Development,100,75,7.64,Pass
+Anitha Kumaran,BCA111,BCA,1,2024,Computer Networks,100,74,7.64,Pass
+Anitha Kumaran,BCA111,BCA,1,2024,Software Engineering,100,80,7.64,Pass
+Anitha Kumaran,BCA111,BCA,1,2024,Java Programming,100,79,7.64,Pass
+Sandeep Raghavan,BCA112,BCA,3,2024,Programming in C,100,85,8.28,Pass
+Sandeep Raghavan,BCA112,BCA,3,2024,Web Development,100,88,8.28,Pass
+Sandeep Raghavan,BCA112,BCA,3,2024,Computer Networks,100,80,8.28,Pass
+Sandeep Raghavan,BCA112,BCA,3,2024,Software Engineering,100,79,8.28,Pass
+Sandeep Raghavan,BCA112,BCA,3,2024,Java Programming,100,83,8.28,Pass
+Deepika Narayanan,BCA113,BCA,2,2024,Programming in C,100,66,6.88,Pass
+Deepika Narayanan,BCA113,BCA,2,2024,Web Development,100,69,6.88,Pass
+Deepika Narayanan,BCA113,BCA,2,2024,Computer Networks,100,70,6.88,Pass
+Deepika Narayanan,BCA113,BCA,2,2024,Software Engineering,100,67,6.88,Pass
+Deepika Narayanan,BCA113,BCA,2,2024,Java Programming,100,73,6.88,Pass
+Rohit Balakrishnan,BCA114,BCA,1,2024,Programming in C,100,91,8.94,Pass
+Rohit Balakrishnan,BCA114,BCA,1,2024,Web Development,100,90,8.94,Pass
+Rohit Balakrishnan,BCA114,BCA,1,2024,Computer Networks,100,87,8.94,Pass
+Rohit Balakrishnan,BCA114,BCA,1,2024,Software Engineering,100,88,8.94,Pass
+Rohit Balakrishnan,BCA114,BCA,1,2024,Java Programming,100,89,8.94,Pass
+Hariharan Subburaj,BCA115,BCA,4,2024,Programming in C,100,75,7.42,Pass
+Hariharan Subburaj,BCA115,BCA,4,2024,Web Development,100,72,7.42,Pass
+Hariharan Subburaj,BCA115,BCA,4,2024,Computer Networks,100,78,7.42,Pass
+Hariharan Subburaj,BCA115,BCA,4,2024,Software Engineering,100,70,7.42,Pass
+Hariharan Subburaj,BCA115,BCA,4,2024,Java Programming,100,74,7.42,Pass
+Niveditha Prakash,BCA116,BCA,2,2024,Programming in C,100,81,8.02,Pass
+Niveditha Prakash,BCA116,BCA,2,2024,Web Development,100,83,8.02,Pass
+Niveditha Prakash,BCA116,BCA,2,2024,Computer Networks,100,80,8.02,Pass
+Niveditha Prakash,BCA116,BCA,2,2024,Software Engineering,100,82,8.02,Pass
+Niveditha Prakash,BCA116,BCA,2,2024,Java Programming,100,79,8.02,Pass
+Srinivas Kannan,BCA117,BCA,3,2024,Programming in C,100,64,6.54,Pass
+Srinivas Kannan,BCA117,BCA,3,2024,Web Development,100,66,6.54,Pass
+Srinivas Kannan,BCA117,BCA,3,2024,Computer Networks,100,62,6.54,Pass
+Srinivas Kannan,BCA117,BCA,3,2024,Software Engineering,100,69,6.54,Pass
+Srinivas Kannan,BCA117,BCA,3,2024,Java Programming,100,67,6.54,Pass
+Revathi Manoharan,BCA118,BCA,1,2024,Programming in C,100,73,7.18,Pass
+Revathi Manoharan,BCA118,BCA,1,2024,Web Development,100,72,7.18,Pass
+Revathi Manoharan,BCA118,BCA,1,2024,Computer Networks,100,71,7.18,Pass
+Revathi Manoharan,BCA118,BCA,1,2024,Software Engineering,100,75,7.18,Pass
+Revathi Manoharan,BCA118,BCA,1,2024,Java Programming,100,76,7.18,Pass
+Arunmozhi Seshadri,BCA119,BCA,4,2024,Programming in C,100,89,8.64,Pass
+Arunmozhi Seshadri,BCA119,BCA,4,2024,Web Development,100,92,8.64,Pass
+Arunmozhi Seshadri,BCA119,BCA,4,2024,Computer Networks,100,87,8.64,Pass
+Arunmozhi Seshadri,BCA119,BCA,4,2024,Software Engineering,100,85,8.64,Pass
+Arunmozhi Seshadri,BCA119,BCA,4,2024,Java Programming,100,86,8.64,Pass
+Mahesh Karthikeyan,BCA120,BCA,2,2024,Programming in C,100,68,6.92,Pass
+Mahesh Karthikeyan,BCA120,BCA,2,2024,Web Development,100,71,6.92,Pass
+Mahesh Karthikeyan,BCA120,BCA,2,2024,Computer Networks,100,72,6.92,Pass
+Mahesh Karthikeyan,BCA120,BCA,2,2024,Software Engineering,100,67,6.92,Pass
+Mahesh Karthikeyan,BCA120,BCA,2,2024,Java Programming,100,70,6.92,Pass
+Kavya Ramesh,BCS121,BSc CS,1,2024,Digital Logic,100,83,8.12,Pass
+Kavya Ramesh,BCS121,BSc CS,1,2024,Python Programming,100,85,8.12,Pass
+Kavya Ramesh,BCS121,BSc CS,1,2024,Data Mining,100,81,8.12,Pass
+Kavya Ramesh,BCS121,BSc CS,1,2024,Cloud Computing,100,82,8.12,Pass
+Kavya Ramesh,BCS121,BSc CS,1,2024,Machine Learning,100,79,8.12,Pass
+Rajeshwaran Iyer,BCS122,BSc CS,2,2024,Digital Logic,100,72,7.26,Pass
+Rajeshwaran Iyer,BCS122,BSc CS,2,2024,Python Programming,100,70,7.26,Pass
+Rajeshwaran Iyer,BCS122,BSc CS,2,2024,Data Mining,100,75,7.26,Pass
+Rajeshwaran Iyer,BCS122,BSc CS,2,2024,Cloud Computing,100,71,7.26,Pass
+Rajeshwaran Iyer,BCS122,BSc CS,2,2024,Machine Learning,100,73,7.26,Pass
+Harini Subash,BCS123,BSc CS,3,2024,Digital Logic,100,65,6.74,Pass
+Harini Subash,BCS123,BSc CS,3,2024,Python Programming,100,69,6.74,Pass
+Harini Subash,BCS123,BSc CS,3,2024,Data Mining,100,68,6.74,Pass
+Harini Subash,BCS123,BSc CS,3,2024,Cloud Computing,100,71,6.74,Pass
+Harini Subash,BCS123,BSc CS,3,2024,Machine Learning,100,64,6.74,Pass
+Vijay Shankar,BCS124,BSc CS,1,2024,Digital Logic,100,90,8.75,Pass
+Vijay Shankar,BCS124,BSc CS,1,2024,Python Programming,100,88,8.75,Pass
+Vijay Shankar,BCS124,BSc CS,1,2024,Data Mining,100,91,8.75,Pass
+Vijay Shankar,BCS124,BSc CS,1,2024,Cloud Computing,100,89,8.75,Pass
+Vijay Shankar,BCS124,BSc CS,1,2024,Machine Learning,100,87,8.75,Pass
+Sahana Ramani,BCS125,BSc CS,4,2024,Digital Logic,100,74,7.42,Pass
+Sahana Ramani,BCS125,BSc CS,4,2024,Python Programming,100,76,7.42,Pass
+Sahana Ramani,BCS125,BSc CS,4,2024,Data Mining,100,71,7.42,Pass
+Sahana Ramani,BCS125,BSc CS,4,2024,Cloud Computing,100,73,7.42,Pass
+Sahana Ramani,BCS125,BSc CS,4,2024,Machine Learning,100,72,7.42,Pass
+Surya Narayan,BCS126,BSc CS,2,2024,Digital Logic,100,82,8.08,Pass
+Surya Narayan,BCS126,BSc CS,2,2024,Python Programming,100,80,8.08,Pass
+Surya Narayan,BCS126,BSc CS,2,2024,Data Mining,100,83,8.08,Pass
+Surya Narayan,BCS126,BSc CS,2,2024,Cloud Computing,100,79,8.08,Pass
+Surya Narayan,BCS126,BSc CS,2,2024,Machine Learning,100,81,8.08,Pass
+Kiran Ananth,BCS127,BSc CS,3,2024,Digital Logic,100,69,6.84,Pass
+Kiran Ananth,BCS127,BSc CS,3,2024,Python Programming,100,71,6.84,Pass
+Kiran Ananth,BCS127,BSc CS,3,2024,Data Mining,100,72,6.84,Pass
+Kiran Ananth,BCS127,BSc CS,3,2024,Cloud Computing,100,68,6.84,Pass
+Kiran Ananth,BCS127,BSc CS,3,2024,Machine Learning,100,69,6.84,Pass
+Supriya Narasimhan,BCS128,BSc CS,4,2024,Digital Logic,100,84,8.22,Pass
+Supriya Narasimhan,BCS128,BSc CS,4,2024,Python Programming,100,82,8.22,Pass
+Supriya Narasimhan,BCS128,BSc CS,4,2024,Data Mining,100,86,8.22,Pass
+Supriya Narasimhan,BCS128,BSc CS,4,2024,Cloud Computing,100,81,8.22,Pass
+Supriya Narasimhan,BCS128,BSc CS,4,2024,Machine Learning,100,83,8.22,Pass
+Anand Krish,BCS129,BSc CS,1,2024,Digital Logic,100,77,7.66,Pass
+Anand Krish,BCS129,BSc CS,1,2024,Python Programming,100,75,7.66,Pass
+Anand Krish,BCS129,BSc CS,1,2024,Data Mining,100,76,7.66,Pass
+Anand Krish,BCS129,BSc CS,1,2024,Cloud Computing,100,79,7.66,Pass
+Anand Krish,BCS129,BSc CS,1,2024,Machine Learning,100,73,7.66,Pass
+Nithya Chandru,BCS130,BSc CS,2,2024,Digital Logic,100,88,8.58,Pass
+Nithya Chandru,BCS130,BSc CS,2,2024,Python Programming,100,86,8.58,Pass
+Nithya Chandru,BCS130,BSc CS,2,2024,Data Mining,100,89,8.58,Pass
+Nithya Chandru,BCS130,BSc CS,2,2024,Cloud Computing,100,87,8.58,Pass
+Nithya Chandru,BCS130,BSc CS,2,2024,Machine Learning,100,90,8.58,Pass
+Varun Raman,BMT131,BSc Maths,2,2025,Calculus,100,82,7.84,Pass
+Varun Raman,BMT131,BSc Maths,2,2025,Linear Algebra,100,78,7.84,Pass
+Varun Raman,BMT131,BSc Maths,2,2025,Probability,100,80,7.84,Pass
+Varun Raman,BMT131,BSc Maths,2,2025,Real Analysis,100,79,7.84,Pass
+Varun Raman,BMT131,BSc Maths,2,2025,Discrete Mathematics,100,81,7.84,Pass
+Ramya Narayanan,BMT132,BSc Maths,1,2025,Calculus,100,91,8.88,Pass
+Ramya Narayanan,BMT132,BSc Maths,1,2025,Linear Algebra,100,88,8.88,Pass
+Ramya Narayanan,BMT132,BSc Maths,1,2025,Probability,100,89,8.88,Pass
+Ramya Narayanan,BMT132,BSc Maths,1,2025,Real Analysis,100,90,8.88,Pass
+Ramya Narayanan,BMT132,BSc Maths,1,2025,Discrete Mathematics,100,85,8.88,Pass
+Janani Subramani,BMT133,BSc Maths,3,2025,Calculus,100,37,5.24,Fail
+Janani Subramani,BMT133,BSc Maths,3,2025,Linear Algebra,100,55,5.24,Fail
+Janani Subramani,BMT133,BSc Maths,3,2025,Probability,100,60,5.24,Fail
+Janani Subramani,BMT133,BSc Maths,3,2025,Real Analysis,100,42,5.24,Fail
+Janani Subramani,BMT133,BSc Maths,3,2025,Discrete Mathematics,100,53,5.24,Fail
+Shankar Velmurugan,BMT134,BSc Maths,4,2025,Calculus,100,71,7.16,Pass
+Shankar Velmurugan,BMT134,BSc Maths,4,2025,Linear Algebra,100,74,7.16,Pass
+Shankar Velmurugan,BMT134,BSc Maths,4,2025,Probability,100,72,7.16,Pass
+Shankar Velmurugan,BMT134,BSc Maths,4,2025,Real Analysis,100,69,7.16,Pass
+Shankar Velmurugan,BMT134,BSc Maths,4,2025,Discrete Mathematics,100,70,7.16,Pass
+Dhivya Krishnan,BMT135,BSc Maths,1,2025,Calculus,100,58,6.22,Pass
+Dhivya Krishnan,BMT135,BSc Maths,1,2025,Linear Algebra,100,61,6.22,Pass
+Dhivya Krishnan,BMT135,BSc Maths,1,2025,Probability,100,60,6.22,Pass
+Dhivya Krishnan,BMT135,BSc Maths,1,2025,Real Analysis,100,64,6.22,Pass
+Dhivya Krishnan,BMT135,BSc Maths,1,2025,Discrete Mathematics,100,59,6.22,Pass
+Navin Raghavan,BMT136,BSc Maths,2,2025,Calculus,100,39,4.96,Fail
+Navin Raghavan,BMT136,BSc Maths,2,2025,Linear Algebra,100,42,4.96,Fail
+Navin Raghavan,BMT136,BSc Maths,2,2025,Probability,100,44,4.96,Fail
+Navin Raghavan,BMT136,BSc Maths,2,2025,Real Analysis,100,48,4.96,Fail
+Navin Raghavan,BMT136,BSc Maths,2,2025,Discrete Mathematics,100,46,4.96,Fail
+Revathi Ananth,BMT137,BSc Maths,3,2025,Calculus,100,88,8.34,Pass
+Revathi Ananth,BMT137,BSc Maths,3,2025,Linear Algebra,100,85,8.34,Pass
+Revathi Ananth,BMT137,BSc Maths,3,2025,Probability,100,84,8.34,Pass
+Revathi Ananth,BMT137,BSc Maths,3,2025,Real Analysis,100,86,8.34,Pass
+Revathi Ananth,BMT137,BSc Maths,3,2025,Discrete Mathematics,100,81,8.34,Pass
+Kishore Kumar,BMT138,BSc Maths,4,2025,Calculus,100,92,9.02,Pass
+Kishore Kumar,BMT138,BSc Maths,4,2025,Linear Algebra,100,90,9.02,Pass
+Kishore Kumar,BMT138,BSc Maths,4,2025,Probability,100,93,9.02,Pass
+Kishore Kumar,BMT138,BSc Maths,4,2025,Real Analysis,100,89,9.02,Pass
+Kishore Kumar,BMT138,BSc Maths,4,2025,Discrete Mathematics,100,91,9.02,Pass
+Rekha Jayaraman,BMT139,BSc Maths,2,2025,Calculus,100,55,6.22,Pass
+Rekha Jayaraman,BMT139,BSc Maths,2,2025,Linear Algebra,100,51,6.22,Pass
+Rekha Jayaraman,BMT139,BSc Maths,2,2025,Probability,100,58,6.22,Pass
+Rekha Jayaraman,BMT139,BSc Maths,2,2025,Real Analysis,100,59,6.22,Pass
+Rekha Jayaraman,BMT139,BSc Maths,2,2025,Discrete Mathematics,100,54,6.22,Pass
+Muthu Seshadri,BMT140,BSc Maths,1,2025,Calculus,100,37,5.08,Fail
+Muthu Seshadri,BMT140,BSc Maths,1,2025,Linear Algebra,100,48,5.08,Fail
+Muthu Seshadri,BMT140,BSc Maths,1,2025,Probability,100,45,5.08,Fail
+Muthu Seshadri,BMT140,BSc Maths,1,2025,Real Analysis,100,42,5.08,Fail
+Muthu Seshadri,BMT140,BSc Maths,1,2025,Discrete Mathematics,100,47,5.08,Fail
+Arjun Sivaraman,MSC141,MSc CS,2,2025,Advanced Algorithms,100,82,7.96,Pass
+Arjun Sivaraman,MSC141,MSc CS,2,2025,Big Data Analytics,100,80,7.96,Pass
+Arjun Sivaraman,MSC141,MSc CS,2,2025,Distributed Systems,100,79,7.96,Pass
+Arjun Sivaraman,MSC141,MSc CS,2,2025,AI & ML,100,81,7.96,Pass
+Arjun Sivaraman,MSC141,MSc CS,2,2025,Network Security,100,84,7.96,Pass
+Shilpa Rajendran,MSC142,MSc CS,1,2025,Advanced Algorithms,100,90,8.92,Pass
+Shilpa Rajendran,MSC142,MSc CS,1,2025,Big Data Analytics,100,88,8.92,Pass
+Shilpa Rajendran,MSC142,MSc CS,1,2025,Distributed Systems,100,92,8.92,Pass
+Shilpa Rajendran,MSC142,MSc CS,1,2025,AI & ML,100,89,8.92,Pass
+Shilpa Rajendran,MSC142,MSc CS,1,2025,Network Security,100,91,8.92,Pass
+Kiran Muthukumar,MSC143,MSc CS,3,2025,Advanced Algorithms,100,59,6.22,Pass
+Kiran Muthukumar,MSC143,MSc CS,3,2025,Big Data Analytics,100,62,6.22,Pass
+Kiran Muthukumar,MSC143,MSc CS,3,2025,Distributed Systems,100,64,6.22,Pass
+Kiran Muthukumar,MSC143,MSc CS,3,2025,AI & ML,100,60,6.22,Pass
+Kiran Muthukumar,MSC143,MSc CS,3,2025,Network Security,100,59,6.22,Pass
+Haritha Balakrishnan,MSC144,MSc CS,4,2025,Advanced Algorithms,100,74,7.28,Pass
+Haritha Balakrishnan,MSC144,MSc CS,4,2025,Big Data Analytics,100,72,7.28,Pass
+Haritha Balakrishnan,MSC144,MSc CS,4,2025,Distributed Systems,100,71,7.28,Pass
+Haritha Balakrishnan,MSC144,MSc CS,4,2025,AI & ML,100,73,7.28,Pass
+Haritha Balakrishnan,MSC144,MSc CS,4,2025,Network Security,100,76,7.28,Pass
+Sivakumar Ramesh,MSC145,MSc CS,2,2025,Advanced Algorithms,100,39,5.18,Fail
+Sivakumar Ramesh,MSC145,MSc CS,2,2025,Big Data Analytics,100,48,5.18,Fail
+Sivakumar Ramesh,MSC145,MSc CS,2,2025,Distributed Systems,100,55,5.18,Fail
+Sivakumar Ramesh,MSC145,MSc CS,2,2025,AI & ML,100,44,5.18,Fail
+Sivakumar Ramesh,MSC145,MSc CS,2,2025,Network Security,100,50,5.18,Fail
+Meera Nagarajan,MSC146,MSc CS,1,2025,Advanced Algorithms,100,81,8.04,Pass
+Meera Nagarajan,MSC146,MSc CS,1,2025,Big Data Analytics,100,79,8.04,Pass
+Meera Nagarajan,MSC146,MSc CS,1,2025,Distributed Systems,100,82,8.04,Pass
+Meera Nagarajan,MSC146,MSc CS,1,2025,AI & ML,100,84,8.04,Pass
+Meera Nagarajan,MSC146,MSc CS,1,2025,Network Security,100,79,8.04,Pass
+Dilip Chandrasekar,MSC147,MSc CS,3,2025,Advanced Algorithms,100,66,6.58,Pass
+Dilip Chandrasekar,MSC147,MSc CS,3,2025,Big Data Analytics,100,69,6.58,Pass
+Dilip Chandrasekar,MSC147,MSc CS,3,2025,Distributed Systems,100,61,6.58,Pass
+Dilip Chandrasekar,MSC147,MSc CS,3,2025,AI & ML,100,64,6.58,Pass
+Dilip Chandrasekar,MSC147,MSc CS,3,2025,Network Security,100,65,6.58,Pass
+Gayathri Seshan,MSC148,MSc CS,4,2025,Advanced Algorithms,100,92,9.00,Pass
+Gayathri Seshan,MSC148,MSc CS,4,2025,Big Data Analytics,100,90,9.00,Pass
+Gayathri Seshan,MSC148,MSc CS,4,2025,Distributed Systems,100,91,9.00,Pass
+Gayathri Seshan,MSC148,MSc CS,4,2025,AI & ML,100,88,9.00,Pass
+Gayathri Seshan,MSC148,MSc CS,4,2025,Network Security,100,89,9.00,Pass
+Rohini Mahadevan,MSC149,MSc CS,2,2025,Advanced Algorithms,100,77,7.44,Pass
+Rohini Mahadevan,MSC149,MSc CS,2,2025,Big Data Analytics,100,75,7.44,Pass
+Rohini Mahadevan,MSC149,MSc CS,2,2025,Distributed Systems,100,79,7.44,Pass
+Rohini Mahadevan,MSC149,MSc CS,2,2025,AI & ML,100,76,7.44,Pass
+Rohini Mahadevan,MSC149,MSc CS,2,2025,Network Security,100,74,7.44,Pass
+Yuvan Srinivasan,MSC150,MSc CS,1,2025,Advanced Algorithms,100,35,4.92,Fail
+Yuvan Srinivasan,MSC150,MSc CS,1,2025,Big Data Analytics,100,42,4.92,Fail
+Yuvan Srinivasan,MSC150,MSc CS,1,2025,Distributed Systems,100,44,4.92,Fail
+Yuvan Srinivasan,MSC150,MSc CS,1,2025,AI & ML,100,39,4.92,Fail
+Yuvan Srinivasan,MSC150,MSc CS,1,2025,Network Security,100,38,4.92,Fail
+
