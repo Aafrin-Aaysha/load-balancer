@@ -36,13 +36,62 @@ A full-stack College Result Management System with a **custom Python load balanc
 ```
 root/
 │
-├── frontend/        # React (Vite) UI
-├── backend1/        # Backend service instance 1
-├── backend2/        # Backend service instance 2
-├── backend3/        # Backend service instance 3
-├── backend4/        # Backend service instance 4
-├── backend5/        # Backend service instance 5
-└── load_balancer/   # Python custom load balancer
+├── frontend/              # React (Vite) UI
+├── backend/               # All Python backend code lives here
+│   ├── app.py             # Backend server entry (run 5 instances with different ports)
+│   ├── loadbalancer.py    # 👈 Custom Python load balancer (same folder)
+│   ├── models.py          # Pydantic/DB models
+│   ├── database.py        # MongoDB connection helpers
+│   ├── requirements.txt   # Python dependencies
+│   ├── start_backends.*   # Convenience script (.bat/.sh)
+│   └── __pycache__/       # Python cache (ignored)
+├── sample_results.csv     # Sample CSV dataset
+└── README.md              # This file
+```
+
+---
+
+## 🔁 Architecture Overview
+
+```
+          ┌──────────────────────────┐
+          │        Frontend          │
+          │  (React + Vite + shadcn) │
+          └────────────┬─────────────┘
+                       │  HTTP
+                       ▼
+           backend/loadbalancer.py
+              (Round‑robin + HC)
+              ┌───────┬───────┬───────┬───────┬───────┐
+              ▼       ▼       ▼       ▼       ▼
+           app.py  app.py  app.py  app.py  app.py
+           :5001   :5002   :5003   :5004   :5005
+                     │        │        │
+                     └────────┴────────┴──▶ MongoDB
+```
+
+---
+
+## 🔁 Architecture Overview
+
+```
+          ┌──────────────────────────┐
+          │        Frontend          │
+          │  (React + Vite + shadcn) │
+          └────────────┬─────────────┘
+                       │
+                       ▼
+              ┌─────────────────┐
+              │  Load Balancer  │
+              │  (Python Script)│
+              └───────┬─────────┘
+     ┌────────┬───────┼───────┬────────┐
+     ▼        ▼       ▼       ▼        ▼
+ backend1  backend2 backend3 backend4 backend5
+ (5001)    (5002)   (5003)   (5004)   (5005)
+     └────────┬───────────┬────────────┘
+              ▼           ▼
+                 MongoDB
 ```
 
 ---
@@ -51,30 +100,49 @@ root/
 
 ### 1️⃣ Start MongoDB
 
-Make sure MongoDB is running locally.
+Ensure MongoDB is running locally (default `mongodb://localhost:27017`).
 
-### 2️⃣ Start backend services
-
-Open 5 terminals:
+### 2️⃣ Install backend deps
 
 ```
-python backend1.py --port 5001
-python backend2.py --port 5002
-python backend3.py --port 5003
-python backend4.py --port 5004
-python backend5.py --port 5005
+cd backend
+pip install -r requirements.txt
 ```
 
-### 3️⃣ Start Load Balancer
+### 3️⃣ Start **five** backend instances (same code, different ports)
+
+> Use either the helper script if you have it, or run manually.
+
+**Windows (PowerShell / CMD):**
+
+```
+python app.py --port 5001
+python app.py --port 5002
+python app.py --port 5003
+python app.py --port 5004
+python app.py --port 5005
+```
+
+**Linux/macOS (zsh/bash):**
+
+```
+python3 app.py --port 5001 &
+python3 app.py --port 5002 &
+python3 app.py --port 5003 &
+python3 app.py --port 5004 &
+python3 app.py --port 5005 &
+```
+
+### 4️⃣ Start the **Python Load Balancer** (in the same backend folder)
 
 ```
 python loadbalancer.py --port 8000
 ```
 
-### 4️⃣ Run Frontend
+### 5️⃣ Run the Frontend
 
 ```
-cd frontend
+cd ../frontend
 npm install
 npm run dev
 ```
